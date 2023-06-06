@@ -3,10 +3,20 @@ body{
     text-align: center;
 }
 h1{
-    font-style: "Lucida-Console", "Sans-Serif";
+    font-family:Sans-Serif;
     font-weight: bold;
     color: aqua;
 }
-li{
+div{
     text-align: center;
+}
+ul{
+    text-align: center;
+    font-family: sans-serif;
+    list-style-position: inside;
+}
+ol{
+    text-align: center;
+    font-family: sans-serif;
+    list-style-position: inside;
 }
